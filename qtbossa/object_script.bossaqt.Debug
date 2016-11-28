@@ -1,0 +1,17 @@
+INPUT(
+./debug/Applet.o
+./debug/bossac.o
+./debug/CmdOpts.o
+./debug/EefcFlash.o
+./debug/EfcFlash.o
+./debug/Flash.o
+./debug/Flasher.o
+./debug/FlashFactory.o
+./debug/NvmFlash.o
+./debug/Samba.o
+./debug/ShumaTechLogo.o
+./debug/WordCopyApplet.o
+./debug/WordCopyArm.o
+./debug/WinPortFactory.o
+./debug/WinSerialPort.o
+);

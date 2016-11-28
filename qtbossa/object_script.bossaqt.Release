@@ -1,0 +1,17 @@
+INPUT(
+./release/Applet.o
+./release/bossac.o
+./release/CmdOpts.o
+./release/EefcFlash.o
+./release/EfcFlash.o
+./release/Flash.o
+./release/Flasher.o
+./release/FlashFactory.o
+./release/NvmFlash.o
+./release/Samba.o
+./release/ShumaTechLogo.o
+./release/WordCopyApplet.o
+./release/WordCopyArm.o
+./release/WinPortFactory.o
+./release/WinSerialPort.o
+);
